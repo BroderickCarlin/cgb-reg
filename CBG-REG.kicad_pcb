@@ -221,7 +221,7 @@
     (property "Sheetname" "")
     (property "ki_description" "Dual NOT Gate, Low-Voltage CMOS")
     (property "ki_keywords" "Dual Gate NOT LVC CMOS")
-    (path "/ec24d53c-b4da-492c-b77f-f2964135dd02")
+    (path "/86673c5a-3f34-4198-a3d8-74fa0b270729")
     (attr smd)
     (fp_text reference "U4" (at 0 -2.4) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
@@ -285,7 +285,7 @@
     (at 97 124.425 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
-    (property "LCSC" "C414506")
+    (property "LCSC" "C881187")
     (property "Sheetfile" "CBG-REG.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor, US symbol")
@@ -296,7 +296,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 6f895853-6a76-4748-b54b-64f2d7d5754d)
     )
-    (fp_text value "100k" (at 0 4.03 90) (layer "F.Fab") hide
+    (fp_text value "75k" (at 0 4.03 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 36ed174f-969a-4b2c-9134-ad59682e9934)
     )
@@ -340,7 +340,7 @@
     (at 95.5 124.425 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
-    (property "LCSC" "C2495443")
+    (property "LCSC" "C667692")
     (property "Sheetfile" "CBG-REG.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor, US symbol")
@@ -351,7 +351,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 98a4b6e1-89c8-48ec-8829-37d0f74c719b)
     )
-    (fp_text value "40.7k" (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "30k" (at 0 1.43 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 7246511b-cdef-48e9-ae30-ac15ce754010)
     )
@@ -600,7 +600,7 @@
     (at 86.5 136.425 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
-    (property "LCSC" "C414506")
+    (property "LCSC" "C325641")
     (property "Sheetfile" "CBG-REG.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor, US symbol")
@@ -611,7 +611,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 8244070f-3af0-45f6-a76d-dfcd67d403ad)
     )
-    (fp_text value "100k" (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "120k" (at 0 1.43 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 44e666cf-3535-4352-a609-024abc6f3bcd)
     )
@@ -655,7 +655,7 @@
     (at 95.5 130.425 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
-    (property "LCSC" "C2505474")
+    (property "LCSC" "C103349")
     (property "Sheetfile" "CBG-REG.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor, US symbol")
@@ -666,7 +666,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp ec549e63-ab41-407f-88a0-b8459997c511)
     )
-    (fp_text value "184k" (at 4.19 1.43 90) (layer "F.Fab") hide
+    (fp_text value "178k" (at 4.19 1.43 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp dc8b4a34-f5ce-492f-b1f7-9a0d568b8135)
     )
@@ -765,7 +765,7 @@
     (at 94 127.425 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
-    (property "LCSC" "C2889164")
+    (property "LCSC" "C414506")
     (property "Sheetfile" "CBG-REG.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor, US symbol")
@@ -776,7 +776,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 1943bb07-0cd0-498c-8d51-1971f59ae926)
     )
-    (fp_text value "124k" (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "100k" (at 0 1.43 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 92412ead-4837-4c8a-afc5-6f4eca78f515)
     )
@@ -820,7 +820,7 @@
     (at 83.5 136.425 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
-    (property "LCSC" "C3915798")
+    (property "LCSC" "C414506")
     (property "Sheetfile" "CBG-REG.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor, US symbol")
@@ -831,7 +831,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e8d16736-36f4-4667-9f2b-8c7cfb9449b7)
     )
-    (fp_text value "83.5k" (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "100k" (at 0 1.43 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 4f109d0a-ebd9-4f77-99af-58359fac8936)
     )
@@ -930,7 +930,7 @@
     (at 95.5 136.425 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
-    (property "LCSC" "C2100176")
+    (property "LCSC" "C367719")
     (property "Sheetfile" "CBG-REG.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor, US symbol")
@@ -941,7 +941,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 345ae8da-71a4-4d62-981e-ff87eda9a88e)
     )
-    (fp_text value "1.15M" (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "1.24M" (at 0 1.43 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 93741a0d-da68-4f4b-a92f-3837b766cf2c)
     )
@@ -985,7 +985,7 @@
     (at 97 127.425 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
-    (property "LCSC" "C414506")
+    (property "LCSC" "C2933260")
     (property "Sheetfile" "CBG-REG.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor, US symbol")
@@ -996,7 +996,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 162a7397-8678-45ec-ab99-d9f5ebd91861)
     )
-    (fp_text value "100k" (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "80.6k" (at 0 1.43 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 9f74b25c-ddb3-4250-a550-80e70488ab30)
     )
@@ -1040,7 +1040,7 @@
     (at 97 136.425 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
-    (property "LCSC" "C414506")
+    (property "LCSC" "C103221")
     (property "Sheetfile" "CBG-REG.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor, US symbol")
@@ -1051,7 +1051,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f7d324de-1db3-44e4-8f56-f1df974bcac4)
     )
-    (fp_text value "100k" (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "107k" (at 0 1.43 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c53fc430-458e-4b84-bb1d-8d424857444c)
     )
@@ -1095,7 +1095,7 @@
     (at 86.5 133.425 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
-    (property "LCSC" "C414506")
+    (property "LCSC" "C325641")
     (property "Sheetfile" "CBG-REG.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor, US symbol")
@@ -1106,7 +1106,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 32badb0f-f7a9-4906-b129-a1fabdf3364e)
     )
-    (fp_text value "100k" (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "120k" (at 0 1.43 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5b8f15c1-d9cd-406c-862d-872af4795751)
     )
@@ -1150,7 +1150,7 @@
     (at 94 124.425 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
-    (property "LCSC" "C317180")
+    (property "LCSC" "C414506")
     (property "Sheetfile" "CBG-REG.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor, US symbol")
@@ -1161,7 +1161,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp f8bb718d-7889-4234-a471-a108605ee222)
     )
-    (fp_text value "133k" (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "100k" (at 0 1.43 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3817ac0d-ae97-454e-8718-040553e6ef54)
     )
@@ -1260,7 +1260,7 @@
     (at 94 136.425 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
-    (property "LCSC" "C4024522")
+    (property "LCSC" "C414506")
     (property "Sheetfile" "CBG-REG.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor, US symbol")
@@ -1271,7 +1271,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 00096420-0686-4845-bb13-88d3d2c08e65)
     )
-    (fp_text value "92k" (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "100k" (at 0 1.43 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 891dd88e-17cc-4566-879e-13e3cf0287f8)
     )
@@ -1370,7 +1370,7 @@
     (at 94 130.425 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
-    (property "LCSC" "C100713")
+    (property "LCSC" "C414506")
     (property "Sheetfile" "CBG-REG.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor, US symbol")
@@ -1381,7 +1381,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3e295eda-53ce-4cea-b529-18cc8c2dd5ae)
     )
-    (fp_text value "105k" (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "100k" (at 0 1.43 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 985c7897-f69f-44eb-b757-84e5459d0c13)
     )
@@ -1425,7 +1425,7 @@
     (at 85 136.425 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
-    (property "LCSC" "C5126197")
+    (property "LCSC" "C321970")
     (property "Sheetfile" "CBG-REG.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor, US symbol")
@@ -1436,7 +1436,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 3f9d3555-2045-4422-be76-f38fd7d67850)
     )
-    (fp_text value "523k" (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "634k" (at 0 1.43 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 664cfca1-7401-4832-a234-45638ead37e2)
     )
@@ -1480,7 +1480,7 @@
     (at 95.5 127.425 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
-    (property "LCSC" "C2498169")
+    (property "LCSC" "C103706")
     (property "Sheetfile" "CBG-REG.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor, US symbol")
@@ -1491,7 +1491,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 89a8f234-8baa-49a2-a407-9ca6b4d589e8)
     )
-    (fp_text value "65.7k" (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "53.6k" (at 0 1.43 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp e37dfa07-c016-439b-be48-f4eb6a4bbe7e)
     )
@@ -1590,7 +1590,7 @@
     (at 83.5 133.425 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
-    (property "LCSC" "C3915798")
+    (property "LCSC" "C414506")
     (property "Sheetfile" "CBG-REG.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor, US symbol")
@@ -1601,7 +1601,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 60001687-3dc4-4f0d-920f-28a5178e0328)
     )
-    (fp_text value "83.5k" (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "100k" (at 0 1.43 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 64550415-ce12-4ccb-9680-53d4adb8a9de)
     )
@@ -1865,7 +1865,7 @@
     (at 85 133.425 -90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
-    (property "LCSC" "C881412")
+    (property "LCSC" "C13174")
     (property "Sheetfile" "CBG-REG.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor, US symbol")
@@ -1876,7 +1876,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b5e3a856-f5eb-4b93-afad-7348b1854dac)
     )
-    (fp_text value "240k" (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "287k" (at 0 1.43 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 40bbc77b-1160-4661-83a9-255dc5c4b129)
     )
@@ -1975,7 +1975,7 @@
     (at 97 130.425 90)
     (descr "Resistor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
     (tags "resistor")
-    (property "LCSC" "C414506")
+    (property "LCSC" "C912224")
     (property "Sheetfile" "CBG-REG.kicad_sch")
     (property "Sheetname" "")
     (property "ki_description" "Resistor, US symbol")
@@ -1986,7 +1986,7 @@
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5e6defff-64fa-47f3-9d6d-da29c31a5ec3)
     )
-    (fp_text value "100k" (at 0 1.43 90) (layer "F.Fab") hide
+    (fp_text value "95.3k" (at 0 1.43 90) (layer "F.Fab") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp d752f163-5eb4-453d-a0a3-d851a9faf6b2)
     )
