@@ -35,3 +35,8 @@ gerbers.zip
 
 # MacOS specific files
 **/.DS_Store
+
+# Task files
+[Tt]askfile.yml
+[Tt]askfile.yaml
+.task/**
