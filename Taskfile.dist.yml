@@ -16,8 +16,7 @@ tasks:
         ignore_error: true
       - cmd: rm -rf {{.TEMP_DIR}} 2> /dev/null
         ignore_error: true
-      - cmd: mkdir {{.TEMP_DIR}} 2> /dev/null
-        ignore_error: true
+      - mkdir {{.TEMP_DIR}} 2> /dev/null
       - defer: rm -rf {{.TEMP_DIR}}
       - echo "Generating Gerber files..."
       - kicad-cli pcb export gerbers -o {{.TEMP_DIR}} -l F.Cu,F.Paste,F.Silkscreen,F.Mask,B.Cu,B.Paste,B.Silkscreen,B.Mask,Edge.Cuts --no-x2 --no-netlist --subtract-soldermask {{.PROJECT_NAME}}.kicad_pcb
