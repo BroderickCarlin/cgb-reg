@@ -2715,7 +2715,7 @@
   (gr_text "NC" (at 84.5 125.25) (layer "B.SilkS") (tstamp f837a8ca-9e5c-4fb8-afd4-6cbfb1835750)
     (effects (font (size 1 1) (thickness 0.15)) (justify left bottom mirror))
   )
-  (gr_text "V1.0" (at 93.75 139.75) (layer "F.SilkS") (tstamp a2c14b91-3a1e-46af-924c-f4090e426562)
+  (gr_text "V1.1" (at 93.75 139.75) (layer "F.SilkS") (tstamp a2c14b91-3a1e-46af-924c-f4090e426562)
     (effects (font (size 1.2 1.2) (thickness 0.15)) (justify left bottom))
   )
   (gr_text "CGB-REG" (at 82 122.5) (layer "F.SilkS") (tstamp e465e008-3d41-4714-841f-ed1d935b11eb)
