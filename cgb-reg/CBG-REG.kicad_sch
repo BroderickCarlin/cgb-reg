@@ -2696,7 +2696,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x07") (at 29.21 176.53 0) (mirror y) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid 7d13bfdc-4f93-468e-b544-7986cf3a17e1)
     (property "Reference" "J1" (at 29.21 166.37 0)
       (effects (font (size 1.27 1.27)))
@@ -3233,7 +3233,7 @@
   )
 
   (symbol (lib_id "Connector_Generic:Conn_01x07") (at 55.88 176.53 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no)
+    (in_bom no) (on_board yes) (dnp no)
     (uuid b368df30-d0db-400e-92ca-28b2b4a86ecf)
     (property "Reference" "J2" (at 55.88 166.37 0)
       (effects (font (size 1.27 1.27)))
@@ -3247,13 +3247,13 @@
     (property "Datasheet" "~" (at 55.88 176.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e01a205b-a0c5-41f0-baab-7dc271e62bb0))
-    (pin "2" (uuid e903997c-c675-4bc3-9ec3-fde52ab5ed82))
-    (pin "3" (uuid 727a9cfb-967b-4372-8d18-c73f74268cfe))
-    (pin "4" (uuid d7849c6d-1eda-4bf4-b407-df616e3dbf83))
-    (pin "5" (uuid 92324a64-f730-423e-8a4c-9a4219e6b451))
-    (pin "6" (uuid c5b3e2d6-ce6e-40af-9022-7be8e0984360))
-    (pin "7" (uuid ca74da1d-fb96-4f50-8319-829d223b30f0))
+    (pin "1" (uuid d6c9553e-5d3a-4f4e-a8ae-76989255766c))
+    (pin "2" (uuid 0be47fc7-f41f-4ac9-8a62-3e1b25df9891))
+    (pin "3" (uuid fc933a00-d0e5-4906-aedc-6c5cdbb0a50a))
+    (pin "4" (uuid c1f8b1c9-8333-4fd1-8031-923d99d01687))
+    (pin "5" (uuid 447cedc2-ad37-4bad-a762-2c5289072925))
+    (pin "6" (uuid 19f30f21-66a1-4a36-8ee1-031e8ccb09d5))
+    (pin "7" (uuid 29361ed2-2e5b-4dca-85ea-40a0ae590bac))
     (instances
       (project "CBG-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
