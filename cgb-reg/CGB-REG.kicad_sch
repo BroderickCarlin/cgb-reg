@@ -1728,7 +1728,7 @@
     (pin "1" (uuid 0c289a51-d50f-434e-bc1e-b4e80573e9ec))
     (pin "2" (uuid eedef0b0-42a6-4d0e-b51f-cf3edd3e8dc6))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R10") (unit 1)
         )
@@ -1753,7 +1753,7 @@
     )
     (pin "1" (uuid 17cd0684-e822-4806-a118-6d623dd3eeb7))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR03") (unit 1)
         )
@@ -1782,7 +1782,7 @@
     (pin "1" (uuid b430e24b-3a5c-4e4e-82cd-842b1d222fb0))
     (pin "2" (uuid c3450530-d661-4f98-bf2a-29a46f6e5194))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R3") (unit 1)
         )
@@ -1811,7 +1811,7 @@
     (pin "1" (uuid c2751719-f5a8-4198-940f-0b25396c5b46))
     (pin "2" (uuid 69d9ed1b-a07b-4908-aa6d-e067f3dc78e7))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R23") (unit 1)
         )
@@ -1836,7 +1836,7 @@
     )
     (pin "1" (uuid 8aaa9399-37a6-48d0-8925-f9c0267fde06))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR05") (unit 1)
         )
@@ -1861,7 +1861,7 @@
     )
     (pin "1" (uuid 752f7952-2e42-4b64-80ef-0d9353f32c07))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR015") (unit 1)
         )
@@ -1890,7 +1890,7 @@
     (pin "1" (uuid acc36080-501e-4d5a-9eb0-da99a57a2cfe))
     (pin "2" (uuid a9d5b933-ee55-46e2-84a2-8da54e98d7ef))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R28") (unit 1)
         )
@@ -1915,7 +1915,7 @@
     )
     (pin "1" (uuid 8923ff7d-090d-41c8-98ca-956b3802242e))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR024") (unit 1)
         )
@@ -1944,7 +1944,7 @@
     (pin "1" (uuid caa7ec57-43d9-47f9-ad1f-c621be4c1d55))
     (pin "2" (uuid 889726b7-0641-427d-b038-7dbca73e84aa))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R37") (unit 1)
         )
@@ -1973,7 +1973,7 @@
     (pin "1" (uuid 0987456d-3fcd-43d9-9a6c-4e918a310be8))
     (pin "2" (uuid 9a0653b3-5fe8-47d3-9725-0e15a1936f7d))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R14") (unit 1)
         )
@@ -2002,7 +2002,7 @@
     (pin "1" (uuid 29b6233e-479a-412f-98a9-fce01387816d))
     (pin "2" (uuid ad3054c8-567e-4556-b7e0-d256cffd707c))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R11") (unit 1)
         )
@@ -2027,7 +2027,7 @@
     )
     (pin "1" (uuid eb49e971-a9a2-4737-bf99-32b8873f69f9))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR013") (unit 1)
         )
@@ -2052,7 +2052,7 @@
     )
     (pin "1" (uuid 565187bd-8f73-459d-b64c-e2aafc90de72))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR026") (unit 1)
         )
@@ -2081,7 +2081,7 @@
     (pin "1" (uuid 117530ff-5f65-4336-9555-5fa37ceef347))
     (pin "2" (uuid e22da61c-8c62-44df-a463-b1609ae0f939))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R22") (unit 1)
         )
@@ -2110,7 +2110,7 @@
     (pin "1" (uuid 11693117-5276-484c-8bca-dc8ad138c3d1))
     (pin "2" (uuid 8d9e5547-8dfb-40ac-9eeb-017a274d4468))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R19") (unit 1)
         )
@@ -2139,7 +2139,7 @@
     (pin "1" (uuid 172f4616-943d-4c12-9ea0-8265838d04db))
     (pin "2" (uuid 73d3d29c-ccf5-4351-a024-c7957b57dd66))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R2") (unit 1)
         )
@@ -2164,7 +2164,7 @@
     )
     (pin "1" (uuid 6f4d85b8-564d-41ec-a720-28d5d93f9055))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR010") (unit 1)
         )
@@ -2193,7 +2193,7 @@
     (pin "1" (uuid 46b9b4d0-ef53-465f-a1bd-9c91f874b8c5))
     (pin "2" (uuid 054f2c0c-469e-454e-b91e-0b53697959f7))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "C4") (unit 1)
         )
@@ -2218,7 +2218,7 @@
     )
     (pin "1" (uuid 855430ad-fabc-467d-b281-104297c92d1f))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR034") (unit 1)
         )
@@ -2247,7 +2247,7 @@
     (pin "1" (uuid c71bf059-06ed-45ca-8dad-a42eaeb92916))
     (pin "2" (uuid 766ca609-1cc5-4bf0-8e07-3df189ebf0c6))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R24") (unit 1)
         )
@@ -2276,7 +2276,7 @@
     (pin "1" (uuid 6d4cc2d9-7999-4df8-bdea-3e42b45c7647))
     (pin "2" (uuid 5b0f6c02-1ed4-454c-9ebf-53bcecd18aba))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R18") (unit 1)
         )
@@ -2301,7 +2301,7 @@
     )
     (pin "1" (uuid b2871a11-22d2-4a18-98bd-21bafb51426b))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR014") (unit 1)
         )
@@ -2330,7 +2330,7 @@
     (pin "1" (uuid 1501d6d0-0c11-49fe-8b64-4157ad7efba3))
     (pin "2" (uuid 85619457-243b-459a-a01b-03270df4f0be))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R39") (unit 1)
         )
@@ -2355,7 +2355,7 @@
     )
     (pin "1" (uuid bf9ae9e8-2bc1-4a5d-8d03-1c5ab01ece89))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR011") (unit 1)
         )
@@ -2384,7 +2384,7 @@
     (pin "1" (uuid fca32217-a35f-4487-92ba-7da13311182f))
     (pin "2" (uuid 15f6ff00-523c-4442-99c4-ddd775eca02a))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R35") (unit 1)
         )
@@ -2413,7 +2413,7 @@
     (pin "1" (uuid e9570c4c-56c4-4712-9385-1022c4fc5d66))
     (pin "2" (uuid 10354cd2-60f3-4737-800c-281980ef8f67))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R4") (unit 1)
         )
@@ -2442,7 +2442,7 @@
     (pin "1" (uuid 6652716b-e5a9-418f-b88c-811c4a819d27))
     (pin "2" (uuid 0145d6f6-f056-4234-b0a9-36240d6cf651))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R20") (unit 1)
         )
@@ -2467,7 +2467,7 @@
     )
     (pin "1" (uuid 3ed25fe6-6130-49a4-b4ed-e84bcb862559))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR04") (unit 1)
         )
@@ -2496,7 +2496,7 @@
     (pin "1" (uuid ec892520-d695-46fa-8a71-35e393887433))
     (pin "2" (uuid 7673b44d-6884-41f0-8ff7-c6d7530e4e9a))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R38") (unit 1)
         )
@@ -2525,7 +2525,7 @@
     (pin "1" (uuid a50015d3-52bd-41d1-be65-f604886526d1))
     (pin "2" (uuid e780c761-fc7e-4f89-bd05-563abf7bb88e))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R29") (unit 1)
         )
@@ -2542,7 +2542,7 @@
     (property "Value" "74LVC2G04" (at 97.79 177.8 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-6" (at 91.44 176.53 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6" (at 91.44 176.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf" (at 91.44 176.53 0)
@@ -2558,7 +2558,7 @@
     (pin "2" (uuid 7ff22045-d442-4215-a3b0-0da3b916ec61))
     (pin "5" (uuid 78c35c3f-9177-4715-bc67-b50a2cd94798))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "U4") (unit 3)
         )
@@ -2587,7 +2587,7 @@
     (pin "1" (uuid caff8838-bcaf-485a-846c-2bbe6317bb35))
     (pin "2" (uuid 289ceca4-89b4-4308-b64f-c857a2c685d6))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "C2") (unit 1)
         )
@@ -2612,7 +2612,7 @@
     )
     (pin "1" (uuid 352fb031-6588-4c7c-80dd-c135ab310292))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR032") (unit 1)
         )
@@ -2637,7 +2637,7 @@
     )
     (pin "1" (uuid e72c4c1c-6c3b-4a87-a591-4f1742c148e7))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR033") (unit 1)
         )
@@ -2662,7 +2662,7 @@
     )
     (pin "1" (uuid 8af24c99-e69b-4cc4-8583-3edd91a4214c))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR09") (unit 1)
         )
@@ -2687,7 +2687,7 @@
     )
     (pin "1" (uuid ce7eecba-c0b9-4a1a-87b7-63e341716260))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR030") (unit 1)
         )
@@ -2718,7 +2718,7 @@
     (pin "6" (uuid 0bd51b59-723d-4cf4-9f0d-7f28b0572c56))
     (pin "7" (uuid f7340c9a-4f9c-4ab6-9e69-9ab096e7f811))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "J1") (unit 1)
         )
@@ -2743,7 +2743,7 @@
     )
     (pin "1" (uuid c08a7731-9b18-4194-9021-c6359adb2ae2))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR029") (unit 1)
         )
@@ -2768,7 +2768,7 @@
     )
     (pin "1" (uuid 9744b80e-a9b2-4c46-89e7-b1eb949f2cdd))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR08") (unit 1)
         )
@@ -2797,7 +2797,7 @@
     (pin "1" (uuid 882d2006-a5e8-4db1-b9d8-bdc14378daa1))
     (pin "2" (uuid 1d4fbd1d-add6-453a-a717-3a27941d28af))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R33") (unit 1)
         )
@@ -2822,7 +2822,7 @@
     )
     (pin "1" (uuid 43d3b6de-5634-4995-951c-77feb26b9980))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR02") (unit 1)
         )
@@ -2847,7 +2847,7 @@
     )
     (pin "1" (uuid 747d08a3-9680-42a8-b80f-6a17eecb65e3))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR012") (unit 1)
         )
@@ -2876,7 +2876,7 @@
     (pin "1" (uuid 99ecd985-a1cd-472f-8c38-de8f0b507481))
     (pin "2" (uuid 815cbdd5-6e5d-4fd5-bbb8-215d78d2d5dc))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "C1") (unit 1)
         )
@@ -2893,7 +2893,7 @@
     (property "Value" "74LVC2G04" (at 41.91 139.7 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-6" (at 43.18 148.59 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6" (at 43.18 148.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf" (at 43.18 148.59 0)
@@ -2909,7 +2909,7 @@
     (pin "2" (uuid f7e9d34f-e322-4c17-a4f8-24f762ee7014))
     (pin "5" (uuid 15514371-17e1-4993-b768-1ff471b195c5))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "U4") (unit 2)
         )
@@ -2934,7 +2934,7 @@
     )
     (pin "1" (uuid b8517a5b-6c4a-44b9-89ce-65ece58b2783))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR018") (unit 1)
         )
@@ -2959,7 +2959,7 @@
     )
     (pin "1" (uuid 6224a5fe-1ecf-4bbe-b77e-052a25465320))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR07") (unit 1)
         )
@@ -2984,7 +2984,7 @@
     )
     (pin "1" (uuid 14603285-6c51-42ad-ab9a-56814f13abce))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR027") (unit 1)
         )
@@ -3009,7 +3009,7 @@
     )
     (pin "1" (uuid 7019ddea-9d2b-4f5c-8a2f-8407255d819a))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR035") (unit 1)
         )
@@ -3038,7 +3038,7 @@
     (pin "1" (uuid fe81d759-3def-4883-af37-b7081b53f5ef))
     (pin "2" (uuid df5150d3-0798-4731-ba5b-394c907b78d8))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R15") (unit 1)
         )
@@ -3067,7 +3067,7 @@
     (pin "1" (uuid 2630945a-98a5-4ba6-81a9-6aa60f2a9b04))
     (pin "2" (uuid c963aad7-f4e4-4726-b2d6-6c3d31f6a228))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R25") (unit 1)
         )
@@ -3096,7 +3096,7 @@
     (pin "1" (uuid bd995627-0268-4fa0-92e6-cb45ff7daa5a))
     (pin "2" (uuid c4d50b56-15c7-40cf-bee1-3c3dd0982dc7))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R32") (unit 1)
         )
@@ -3137,7 +3137,7 @@
     (pin "8" (uuid 6d87fb44-e26c-4f8f-be77-bde79e22bd80))
     (pin "9" (uuid 4a18bc7d-4ebf-4e3f-9041-ce62dffceba5))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "U3") (unit 1)
         )
@@ -3166,7 +3166,7 @@
     (pin "1" (uuid 42f4489a-ff2c-40f9-9488-3cd8dfa252fa))
     (pin "2" (uuid 3af16c5a-31f7-41da-b940-296905c538b9))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R31") (unit 1)
         )
@@ -3195,7 +3195,7 @@
     (pin "1" (uuid d6da234c-1199-4ebf-8772-d9496e28f2df))
     (pin "2" (uuid eac47d8e-a37e-439c-9f5a-514aadc6987b))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R21") (unit 1)
         )
@@ -3224,7 +3224,7 @@
     (pin "1" (uuid 060dd018-ac5e-4013-a5a1-a1ac1dcd57b7))
     (pin "2" (uuid 1b7ada22-fbd7-4648-a66d-757ccb777439))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R12") (unit 1)
         )
@@ -3255,7 +3255,7 @@
     (pin "6" (uuid 19f30f21-66a1-4a36-8ee1-031e8ccb09d5))
     (pin "7" (uuid 29361ed2-2e5b-4dca-85ea-40a0ae590bac))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "J2") (unit 1)
         )
@@ -3284,7 +3284,7 @@
     (pin "1" (uuid 69796c3b-8449-4e69-9d32-868ad4e487bc))
     (pin "2" (uuid 8fc190c9-b54f-4869-97fc-82eab7924b87))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R1") (unit 1)
         )
@@ -3313,7 +3313,7 @@
     (pin "1" (uuid 803e40d8-0827-40a2-a935-bf09c3573861))
     (pin "2" (uuid 9e1655d3-223b-44c7-967e-da13e211aac7))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R26") (unit 1)
         )
@@ -3338,7 +3338,7 @@
     )
     (pin "1" (uuid 59b8bf5e-3f38-4f14-950c-d58337b0e11f))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR017") (unit 1)
         )
@@ -3363,7 +3363,7 @@
     )
     (pin "1" (uuid 725e1e5e-3086-494f-b046-97deecdcca5c))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR025") (unit 1)
         )
@@ -3388,7 +3388,7 @@
     )
     (pin "1" (uuid fa77dfa9-fa3a-42b0-9677-ed4db963b6be))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR031") (unit 1)
         )
@@ -3413,7 +3413,7 @@
     )
     (pin "1" (uuid d602d56e-3185-4e2b-a530-af2f09bf72c8))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR016") (unit 1)
         )
@@ -3442,7 +3442,7 @@
     (pin "1" (uuid 1d036d6f-50a7-4f42-a361-700765c588b0))
     (pin "2" (uuid 532ffd17-5e54-46e6-a5b2-33b5485b896a))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R27") (unit 1)
         )
@@ -3471,7 +3471,7 @@
     (pin "1" (uuid 2e4593c8-36ae-4f7a-8636-6135b8b8db97))
     (pin "2" (uuid 3350e85f-b4b5-4a64-908c-def004d5f441))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R5") (unit 1)
         )
@@ -3500,7 +3500,7 @@
     (pin "1" (uuid b0c820df-79ed-4b2a-b758-d87e827f9180))
     (pin "2" (uuid f2a271be-7db9-458c-8497-daf2a94c8e28))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R17") (unit 1)
         )
@@ -3541,7 +3541,7 @@
     (pin "8" (uuid dd0d88b7-9473-499d-a147-d790afa427e9))
     (pin "9" (uuid bee0866f-969a-4e09-82d5-4bf1c1cbff2d))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "U6") (unit 1)
         )
@@ -3570,7 +3570,7 @@
     (pin "1" (uuid 5eebb4da-f83f-4035-8d04-01e09bb05467))
     (pin "2" (uuid 55987ef5-00da-4ff5-8d27-b8d31cd1913b))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R16") (unit 1)
         )
@@ -3595,7 +3595,7 @@
     )
     (pin "1" (uuid 8bb159d3-6f6d-4b9a-91a2-f6c79be1659e))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR06") (unit 1)
         )
@@ -3620,7 +3620,7 @@
     )
     (pin "1" (uuid 3d6b8c2a-9b60-4a32-bb9d-8cb2a2d1e15c))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR028") (unit 1)
         )
@@ -3649,7 +3649,7 @@
     (pin "1" (uuid a71a7892-0d46-4a42-a01d-0f38bfab2d8e))
     (pin "2" (uuid 63f56fa3-13cb-4363-8ead-45acbc2a341b))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R8") (unit 1)
         )
@@ -3674,7 +3674,7 @@
     )
     (pin "1" (uuid edb0c7f1-d8af-44f7-823a-5d4e0697a898))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR01") (unit 1)
         )
@@ -3703,7 +3703,7 @@
     (pin "1" (uuid 1b28e97f-12b6-4afa-91a5-e571317e267e))
     (pin "2" (uuid 323d0ded-214e-4f1a-80d2-c6d46ae7092c))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R36") (unit 1)
         )
@@ -3732,7 +3732,7 @@
     (pin "1" (uuid aa311d81-b70a-4b99-b547-4d9694f2af89))
     (pin "2" (uuid 1d926604-7128-428c-bef3-a0ac1b6ee244))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R13") (unit 1)
         )
@@ -3757,7 +3757,7 @@
     )
     (pin "1" (uuid 2af09f3b-a141-45af-878c-3109a0aecb24))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "#PWR019") (unit 1)
         )
@@ -3786,7 +3786,7 @@
     (pin "1" (uuid bbbfef91-be87-4720-8e8d-5a6fe0dacdcd))
     (pin "2" (uuid 092120a8-6379-4265-acfe-2b8fcd7990d3))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R34") (unit 1)
         )
@@ -3815,7 +3815,7 @@
     (pin "1" (uuid f3edd69d-a7e7-40a7-96a8-65ee412e4e37))
     (pin "2" (uuid 862ac9a7-d882-42c9-9d41-ad07c3e7dfe1))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "C3") (unit 1)
         )
@@ -3832,7 +3832,7 @@
     (property "Value" "74LVC2G04" (at 41.91 121.92 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-6" (at 43.18 130.81 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-363_SC-70-6" (at 43.18 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf" (at 43.18 130.81 0)
@@ -3848,7 +3848,7 @@
     (pin "2" (uuid 81370627-8394-40e9-9b87-6c5b40c9dd42))
     (pin "5" (uuid c41bf252-13c8-4412-b911-514f17833399))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "U4") (unit 1)
         )
@@ -3877,7 +3877,7 @@
     (pin "1" (uuid 893eaa1b-f443-4829-9ba7-40fae3e3a9b2))
     (pin "2" (uuid 2a5a7bde-09f4-4f3f-b3f6-c066973ef5fd))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R9") (unit 1)
         )
@@ -3906,7 +3906,7 @@
     (pin "1" (uuid a9e174cc-2f18-4dd4-8d4d-302d90115946))
     (pin "2" (uuid 2bbed39a-1972-4cfd-a39e-78a0e07bb2c6))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R6") (unit 1)
         )
@@ -3935,7 +3935,7 @@
     (pin "1" (uuid 2e71e474-ee8d-4140-ad45-031fde7f36b6))
     (pin "2" (uuid 0be955dc-1163-47f5-be05-7e7325c2cdd8))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R30") (unit 1)
         )
@@ -3964,7 +3964,7 @@
     (pin "1" (uuid 5700c616-3cd6-422d-81c8-37d8e333af1b))
     (pin "2" (uuid a13307d5-b8e8-4b8a-ae19-5a4084ee6378))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "R7") (unit 1)
         )
@@ -4005,7 +4005,7 @@
     (pin "8" (uuid 0608fd3f-90a5-4b60-b22e-c65f241c7362))
     (pin "9" (uuid aecaae7b-174e-40a0-85ef-f98d7cc8eed4))
     (instances
-      (project "CBG-REG"
+      (project "CGB-REG"
         (path "/8296646b-0ec3-45f1-a552-c3a0f50aba03"
           (reference "U5") (unit 1)
         )
